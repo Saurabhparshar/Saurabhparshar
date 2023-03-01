@@ -10,12 +10,14 @@
 <h1 align="center">
 I'm a passionate Frontend Developer and ML Enthusiast from India.</h1>
 
+
 <a href="#"><img width="300" align="right" height="auto" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"></a>
 
 
 𝐏𝐫𝐞-𝐟𝐢𝐧𝐚𝐥 𝐲𝐞𝐚𝐫 𝐁.𝐓𝐞𝐜𝐡 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐰𝐢𝐭𝐡 𝐚 𝐩𝐚𝐬𝐬𝐢𝐨𝐧 𝐟𝐨𝐫 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐚𝐧𝐝 𝐩𝐫𝐨𝐛𝐥𝐞𝐦-𝐬𝐨𝐥𝐯𝐢𝐧𝐠. 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐟𝐨𝐜𝐮𝐬𝐞𝐝 𝐨𝐧 𝐢𝐦𝐩𝐫𝐨𝐯𝐢𝐧𝐠 𝐦𝐲 𝐝𝐚𝐭𝐚 𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 𝐚𝐧𝐝 𝐚𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 . 𝐄𝐱𝐜𝐢𝐭𝐞𝐝 𝐭𝐨 𝐚𝐩𝐩𝐥𝐲 𝐦𝐲 𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐭𝐨 𝐫𝐞𝐚𝐥-𝐰𝐨𝐫𝐥𝐝 𝐜𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞𝐬 𝐚𝐧𝐝 𝐩𝐮𝐫𝐬𝐮𝐞 𝐚 𝐜𝐚𝐫𝐞𝐞𝐫 𝐢𝐧 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭.
 
-
+<br>
+  <br/>
 
 - 🌱 I’m currently learning  **<code>Data Structures and Algorithms</code>, <code>Machine Learning</code>**
 
@@ -24,8 +26,12 @@ I'm a passionate Frontend Developer and ML Enthusiast from India.</h1>
 - 📫 How to reach me **<code><a href="https://www.linkedin.com/in/saurabh-kumar-780186217/">LinkedIn</a></code>** **<code>[Gmail](mailto:saurabh11062000@gmail.com)</code>**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
+ <br>
+ 
+  <br/>
 
 ## 🚀 Languages and Tools:
+
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -47,6 +53,7 @@ I'm a passionate Frontend Developer and ML Enthusiast from India.</h1>
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Saurabh Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhparshar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
 
 ## 📊 My Github Stats
 
