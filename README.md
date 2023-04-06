@@ -65,7 +65,7 @@ I'm a passionate Frontend Developer and ML Enthusiast from India.</h1>
 
 ## 🤝 Support Me:
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
+<a href="https://www.buymeacoffee.com/saurabhparashar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
 
 
 ## 📊 My Github Stats
