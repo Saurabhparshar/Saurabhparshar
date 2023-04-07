@@ -21,7 +21,7 @@ I'm a passionate Frontend Developer and ML Enthusiast from India.</h1>
 
 - 🌱 I’m currently learning  **<code>Data Structures and Algorithms</code>, <code>Machine Learning</code>**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]**
+- 👨‍💻 All of my projects are available at **<code><a href="saurabh-newportfolio.netlify.app/">[My Portfolio]**
 
 - 📫 How to reach me **<code><a href="https://www.linkedin.com/in/saurabh-kumar-780186217/">LinkedIn</a></code>** **<code>[Gmail](mailto:saurabh11062000@gmail.com)</code>**
 
@@ -58,10 +58,16 @@ I'm a passionate Frontend Developer and ML Enthusiast from India.</h1>
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
 </p>
 
+<br/>
+<br/>
+
 ## ❤️ Let's get connected:
 
 <p> <a href="https://twitter.com/saurabh170602" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/saurabh-kumar-780186217" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>  <a href="https://www.instagram.com/saurabh_parashar7/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
+
+<br/>
+<br/>
 
 ## 🤝 Support Me:
 
