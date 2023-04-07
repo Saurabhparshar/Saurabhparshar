@@ -57,6 +57,12 @@ I'm a passionate Frontend Developer and ML Enthusiast from India.</h1>
  <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
 </p>
+<p align="left">
+    <a href="https://github.com/saurabhparshar/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gaurav Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav1745&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
 
 <br/>
 
