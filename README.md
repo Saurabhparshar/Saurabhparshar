@@ -23,7 +23,7 @@ I'm a passionate Frontend Developer and ML Enthusiast from India.</h1>
 
 - 👨‍💻 All of my projects are available at **<code><a href="saurabh-newportfolio.netlify.app/">[My Portfolio]</a></code>**
 
-- 📫 How to reach me **<code><a href="https://www.linkedin.com/in/saurabh-kumar-780186217/">LinkedIn</a></code>** **<code>[Gmail](mailto:saurabh11062000@gmail.com)</code>**
+- 📫 How to reach me **<code><a href="https://www.linkedin.com/in/saurabh-kumar-780186217/">LinkedIn</a></code>** **<code>[Gmail](mailto:saurabh11062000@gmail.com)</code>** **<code><a href="https://www.twitter.com/in/saurabh170602/">Twitter</a></code>**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
  <br>
