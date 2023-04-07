@@ -21,7 +21,7 @@ I'm a passionate Frontend Developer and ML Enthusiast from India.</h1>
 
 - 🌱 I’m currently learning  **<code>Data Structures and Algorithms</code>, <code>Machine Learning</code>**
 
-- 👨‍💻 All of my projects are available at **<code><a href="saurabh-newportfolio.netlify.app/">[My Portfolio]**
+- 👨‍💻 All of my projects are available at **[My Portfolio]**
 
 - 📫 How to reach me **<code><a href="https://www.linkedin.com/in/saurabh-kumar-780186217/">LinkedIn</a></code>** **<code>[Gmail](mailto:saurabh11062000@gmail.com)</code>**
 
