@@ -59,7 +59,7 @@ I'm a passionate Frontend Developer and ML Enthusiast from India.</h1>
 </p>
 
 <br/>
-<br/>
+
 
 ## ❤️ Let's get connected:
 
@@ -67,7 +67,7 @@ I'm a passionate Frontend Developer and ML Enthusiast from India.</h1>
 </p>
 
 <br/>
-<br/>
+
 
 ## 🤝 Support Me:
 
@@ -87,7 +87,7 @@ I'm a passionate Frontend Developer and ML Enthusiast from India.</h1>
 
 
 <br/>
-<br/>
+
 
 
 
