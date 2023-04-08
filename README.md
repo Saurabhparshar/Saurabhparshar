@@ -59,7 +59,7 @@ I'm a passionate Frontend Developer and ML Enthusiast from India.</h1>
 </p>
 <p align="left">
     <a href="https://github.com/saurabhparshar/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gaurav Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav1745&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Saurabh Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabhparshar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
