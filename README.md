@@ -60,8 +60,9 @@ I'm a passionate Full stack Developer and ML Enthusiast from India.</h1>
 </p>
 <p align="left">
     <a href="https://github.com/saurabhparshar/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Saurabh Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabhparshar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
+ <br>
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhparshar&theme=tokyonight&border_radius=10" alt="streak" />
 </p>
 
 
@@ -71,6 +72,7 @@ I'm a passionate Full stack Developer and ML Enthusiast from India.</h1>
 ## ❤️ Let's get connected:
 
 <p> <a href="https://twitter.com/saurabh170602" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/saurabh-kumar-780186217" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>  <a href="https://www.instagram.com/saurabh_parashar7/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+<a href="mailto:saurabh11062000@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/EMail-005F73?style=for-the-badge&logo=gmail&logoColor=white" alt="portfolio" height="30px" /></a>
 </p>
 
 <br/>
@@ -84,12 +86,11 @@ I'm a passionate Full stack Developer and ML Enthusiast from India.</h1>
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/saurabhparshar/github-readme-stats"><img alt="Saurabh Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saurabhparshar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  
-<p align="center">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashishjain04&layout=compact&theme=tokyonight&border_radius=10" alt="top-langs" />
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Kashishjain04&show_icons=true&theme=tokyonight&border_radius=10" alt="github-stats" />
-    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=kashishjain04&theme=tokyonight&border_radius=10" alt="streak" />
+   
+<p align="">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhparshar&layout=compact&theme=tokyonight&border_radius=10" alt="top-langs" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=saurabhparshar&show_icons=true&theme=tokyonight&border_radius=10" alt="github-stats" />
+    
 </p>
 
 <br/>
