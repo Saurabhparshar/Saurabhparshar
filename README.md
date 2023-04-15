@@ -86,7 +86,11 @@ I'm a passionate Full stack Developer and ML Enthusiast from India.</h1>
   <br/>
     <a href="https://github.com/saurabhparshar/github-readme-stats"><img alt="Saurabh Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saurabhparshar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
-
+<p align="center">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashishjain04&layout=compact&theme=tokyonight&border_radius=10" alt="top-langs" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Kashishjain04&show_icons=true&theme=tokyonight&border_radius=10" alt="github-stats" />
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=kashishjain04&theme=tokyonight&border_radius=10" alt="streak" />
+</p>
 
 <br/>
 <br/>
