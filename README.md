@@ -19,11 +19,11 @@ I'm a passionate Full Stack Developer and ML Enthusiast from India.</h1>
 <br>
   <br/>
 
-- 🌱 I’m currently learning  **<code>Data Structures and Algorithms</code>, <code>Machine Learning</code>**
+- 🌱 I’m currently learning  <b>**<code>Data Structures and Algorithms</code>, <code>Machine Learning</code> ,<code>Web Development</code>**</b>
 
-- 👨‍💻 All of my projects are available at **<code><a href="saurabh-newportfolio.netlify.app/">[My Portfolio]</a></code>**
+- 👨‍💻 All of my projects are available at <b><code><a href="saurabh-newportfolio.netlify.app/">[My Portfolio]</a></code></b>
 
-- 📫 How to reach me **<code><a href="https://www.linkedin.com/in/saurabh-kumar-780186217/">LinkedIn</a></code>** **<code>[Gmail](mailto:saurabh11062000@gmail.com)</code>** **<code><a href="https://www.twitter.com/in/saurabh170602/">Twitter</a></code>**
+- 📫 How to reach me <b><code><a href="https://www.linkedin.com/in/saurabh-kumar-780186217/">LinkedIn</a></code></b> <b><code>[Gmail](mailto:saurabh11062000@gmail.com)</code></b> <b><code><a href="https://www.twitter.com/in/saurabh170602/">Twitter</a></code></b>
 - 👯 I’m looking to collaborate for **`Dev Projects`**
 - 🔥  Life Hack  **Learn new tech 🔥 and share what you have learned 🎉**
 - ⚡ Fun fact **I play games and go to the GYM very often.**
