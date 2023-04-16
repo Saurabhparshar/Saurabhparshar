@@ -82,7 +82,7 @@ I'm a passionate Full Stack Developer and ML Enthusiast from India.</h1>
 
 <a href="https://www.buymeacoffee.com/saurabhparashar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
  <br/>
-
+ <br/>
 ## 📊 My Github Stats
 
   <br/>
@@ -98,7 +98,7 @@ I'm a passionate Full Stack Developer and ML Enthusiast from India.</h1>
 
 
 
-<br/>
+
 
 
 
