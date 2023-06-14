@@ -88,11 +88,10 @@ I'm a passionate Full Stack Web Developer and ML Enthusiast from India.</h1>
   <br/>
    
 <p align="">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhparshar&layout=compact&theme=tokyonight&border_radius=10" alt="top-langs" />
-  
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=saurabhparshar&show_icons=true&theme=tokyonight&border_radius=10" alt="github-stats" />
-    
-</p>
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhparshar&layout=compact&theme=tokyonight&border_radius=10" alt="top-langs"/>
+  <br/>
+ <img height="200" src="https://github-readme-stats.vercel.app/api?username=saurabhparshar&show_icons=true&theme=tokyonight&border_radius=10" alt="github-stats" />
+    </p>
 
 <br/>
 <br/>
