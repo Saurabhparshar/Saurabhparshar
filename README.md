@@ -78,6 +78,7 @@ I'm a passionate Full Stack Web Developer and ML Enthusiast from India.</h1>
 <br/>
 
 
+
 ## 🤝 Support Me:
 
 <a href="https://www.buymeacoffee.com/saurabhparashar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
@@ -97,7 +98,11 @@ I'm a passionate Full Stack Web Developer and ML Enthusiast from India.</h1>
 <br/>
 
 
-
+<div align="center">
+<img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif"/>
+<img src="https://c.tenor.com/jLjgxINP2SgAAAAj/caffeina-caffeina-agency.gif"/>
+</div>
+<br>😄
 
 
 
