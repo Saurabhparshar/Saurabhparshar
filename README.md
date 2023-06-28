@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/saurabh-kumar-b793951ab">
-<img align="center" height="350" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
+<img align="center" height="300" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
 </a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=choococooky&weight=600&size=65&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hey+there!+🙋‍;This+is+Saurabh!+✨;I'm+a+MERN+Stack+Developer.;I'm+a+ML+Enthusiast.;I'm+a+CPP+Coder.;+" alt="Typing SVG" /></a> </p>
 
